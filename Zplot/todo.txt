@@ -1,0 +1,8 @@
+---Need to do
+blocking when disconnecting
+incorrect setting detection by checking for badData
+add "Are you sure?" modal dialog when deleting channel with data
+graph reordering
+
+---optimizations
+Convert the canvas point transformation function into a cashed 3x3 matrix
